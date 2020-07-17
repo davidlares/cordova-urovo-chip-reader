@@ -19,6 +19,10 @@ Assuming you have your everything set up, you can:
 1. Building Java plugin like: `cordova add plugin ./ChipPlugin`
 2. Run your app with a wired device like: `cordova run android --device`
 
+# Result 
+
+![](https://i.imgur.com/iyT7xdx.png)
+
 ## Credits
 
  - [David E Lares](https://twitter.com/davidlares3)
