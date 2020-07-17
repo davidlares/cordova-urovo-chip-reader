@@ -1,0 +1,28 @@
+.custom-top {
+  margin-top: 25px;
+}
+
+.disabling {
+  display: none;
+}
+
+.small-text {
+  font-size: 11px;
+}
+
+.small-text-rsp {
+  font-size: 11px;
+  overflow-x: scroll;
+}
+
+.subtitle {
+  font-size: 12px;
+}
+
+.banner-title {
+  font-size: 11px;
+}
+
+.fix-top {
+  margin-top: -25px;
+}

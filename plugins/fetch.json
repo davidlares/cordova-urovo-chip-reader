@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "com.stv.plugins.chip": {
+    "source": {
+      "type": "local",
+      "path": "/home/david/Projects/POS/clients/cordova-chip/node_modules/stv-chip-plugins-cordova"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

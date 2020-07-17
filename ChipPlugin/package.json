@@ -1,0 +1,17 @@
+{
+  "name": "stv-chip-plugins-cordova",
+  "version": "1.0.0",
+  "description": "Chip Reader Cordova plugin for Urovo devices",
+  "cordova": {
+    "id": "com.stv.plugins.chip",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "David E Lares S <david.e.lares@gmail.com>",
+  "license": "MIT"
+}
