@@ -1,4 +1,4 @@
-# Urovo Chip reader
+## Urovo Chip reader
 
 The following project is an Android-based App built with `Apache Cor,dova`, which contains a straightforward implementation logic for reading ICC or `EMV-based cards` with the Urovo Payment terminal (Safedroid OS)
 
