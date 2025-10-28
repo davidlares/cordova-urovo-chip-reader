@@ -1,8 +1,8 @@
-# UrovoChip
+# Urovo Chip reader
 
-The following project is an Android-based App built with `Apache Cordova` which contains a straight-forward implementation logic for reading ICC or `EMV Based cards` with Urovo Payment terminal (Safedroid OS)
+The following project is an Android-based App built with `Apache Cor,dova`, which contains a straightforward implementation logic for reading ICC or `EMV-based cards` with the Urovo Payment terminal (Safedroid OS)
 
-The bridge between `JavaScript` and `Java` (Android-Native) was done with `plugman`, a simple utility tool for bidi communications between Android java activities and the HTML-CSS-JS DOM. This one is the `ChipPlugin` folder located at the root directory.
+The bridge between `JavaScript` and `Java` (Android-Native) was done with `plugman`, a simple utility tool for bidi communications between Android Java activities and the HTML-CSS-JS DOM. This one is the `ChipPlugin` folder located at the root directory.
 
 Check `plugman` docs [here](https://cordova.apache.org/docs/en/latest/plugin_ref/plugman.html)
 
@@ -14,9 +14,9 @@ This was built and tested with a Urovo i9100 terminal POS
 
 ## Commands
 
-Assuming you have your everything set up, you can:
+Assuming you have everything set up, you can:
 
-1. Building Java plugin like: `cordova add plugin ./ChipPlugin`
+1. Building a Java plugin like: `cordova add plugin ./ChipPlugin`
 2. Run your app with a wired device like: `cordova run android --device`
 
 # Result 
@@ -24,9 +24,7 @@ Assuming you have your everything set up, you can:
 ![](https://i.imgur.com/iyT7xdx.png)
 
 ## Credits
-
- - [David E Lares](https://twitter.com/davidlares3)
+[David Lares S](https://davidlares.com)
 
 ## License
-
- - [MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
